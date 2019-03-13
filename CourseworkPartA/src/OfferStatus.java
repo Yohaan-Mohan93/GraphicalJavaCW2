@@ -1,0 +1,3 @@
+public enum OfferStatus {
+    CONDITIONAL, UNCONDITIONAL, REJECTED, PENDING;
+}
